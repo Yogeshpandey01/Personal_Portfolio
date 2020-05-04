@@ -1,0 +1,27 @@
+#banner
+{
+    background-image: linear-gradient(to right, #48b7c5,#76c9d4);
+    color: #ffff;
+    padding-top: 5%;
+}
+
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+
+.circular--landscape {
+  display: inline-block;
+  position: relative;
+  width: 250px;
+  height: 250px;
+  overflow: hidden;
+  border-radius: 50%;
+}
+
+.circular--landscape img {
+  width: auto;
+  height: 100%;
+}
